@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2017-01-04
-categories: Robots Analog
+tags: Robots Analog
 ---
 
 Hello World!!
